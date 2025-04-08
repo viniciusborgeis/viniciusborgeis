@@ -44,11 +44,11 @@
     <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>   
     <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>  
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
   </p>
   <h2>Padawan Skills</h3>
   <p>
-    <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
     <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/>
     <img src="https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white"/>
@@ -58,7 +58,7 @@
 <img src="http://views.whatilearened.today/views/github/MrStanDu33/views.svg"/>
 <h3>⚡️ The strength of open source ⚡️</h3><br/>
 <p>
-  🤓 I'm <bold>Vinicius</bold>. 29 years old, gamer and lover of code and 🍺.<br/>
+  🤓 I'm <bold>Vinicius</bold>. 32 years old, gamer and lover of code and 🍺.<br/>
   💼 I live in <a href="https://www.google.com/maps?q=riodejaneiro">Rio de Janeiro</a>, Brazil.<br/>
   💻 <bold>T-Shaped</bold><em>(<a href="https://letslearnabout.net/blog/what-it-is-a-t-shaped-developer-and-why-you-should-be-one">?</a>) Software Engineer</em> <bold><a href="https://rubyonrails.org/">Ruby on Rails</a></bold> × <bold><a href="https://vuejs.org">Vue.js</a></bold> × <bold><a href="https://reactjs.org/">React</a></bold> × <bold><a href="https://www.solidjs.com/">SolidJS</a></bold>.<br/>
   🎥 I live on Twitch <a href="https://twitch.tv/viniborgs">Twitch</a> from time to time, you can see me developing Open Source projects. <br/>
